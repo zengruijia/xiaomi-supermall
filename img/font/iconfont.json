@@ -1,0 +1,100 @@
+{
+  "id": "2697249",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "647455",
+      "name": "播放",
+      "font_class": "play",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "880429",
+      "name": "扳手",
+      "font_class": "shouhou",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1221892",
+      "name": "个人",
+      "font_class": "personal",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "7474662",
+      "name": "售后管理",
+      "font_class": "kefu",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "22771499",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1817616",
+      "name": "左",
+      "font_class": "left",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "1817618",
+      "name": "右",
+      "font_class": "right",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "1518190",
+      "name": "下",
+      "font_class": "xia",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "6401059",
+      "name": "购物车",
+      "font_class": "weibiaoti--",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "21914678",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "21914687",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "21914689",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "21914691",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
